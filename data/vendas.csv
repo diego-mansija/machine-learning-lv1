@@ -1,0 +1,101 @@
+ID_Pedido,Data,Produto,Categoria,Quantidade,Preço_Unitário,Custo_Envio
+1,2024-01-01,Teclado Mecânico,Acessórios,2,150.00,15.00
+2,2024-01-02,Monitor 4K,Hardware,1,2200.00,50.00
+3,2024-01-05,Mouse Gamer,Acessórios,5,80.00,10.00
+4,2024-01-10,Cadeira Ergonômica,Móveis,1,1200.00,100.00
+5,2024-01-12,Headset Wireless,Áudio,3,250.00,20.00
+6,2024-01-15,Placa de Vídeo,Hardware,1,3500.00,60.00
+7,2024-01-20,Teclado Mecânico,Acessórios,1,150.00,15.00
+8,2024-01-22,SSD 1TB,Hardware,4,450.00,12.00
+9,2024-01-25,Monitor 4K,Hardware,2,2200.00,50.00
+10,2024-01-28,Mouse Gamer,Acessórios,10,80.00,10.00
+11,2024-02-02,Cadeira Ergonômica,Móveis,2,1200.00,100.00
+12,2024-02-05,Headset Wireless,Áudio,4,250.00,20.00
+13,2024-02-10,Webcam 1080p,Acessórios,3,300.00,15.00
+14,2024-02-12,Placa de Vídeo,Hardware,1,3500.00,60.00
+15,2024-02-15,Teclado Mecânico,Acessórios,3,150.00,15.00
+16,2024-02-18,SSD 1TB,Hardware,2,450.00,12.00
+17,2024-02-20,Monitor 4K,Hardware,1,2200.00,50.00
+18,2024-02-25,Mouse Gamer,Acessórios,8,80.00,10.00
+19,2024-02-28,Headset Wireless,Áudio,2,250.00,20.00
+20,2024-03-01,Webcam 1080p,Acessórios,5,300.00,15.00
+21,2024-03-05,Cadeira Ergonômica,Móveis,1,1200.00,100.00
+22,2024-03-07,Placa de Vídeo,Hardware,2,3500.00,60.00
+23,2024-03-10,Teclado Mecânico,Acessórios,4,150.00,15.00
+24,2024-03-12,SSD 1TB,Hardware,6,450.00,12.00
+25,2024-03-15,Monitor 4K,Hardware,1,2200.00,50.00
+26,2024-03-18,Mouse Gamer,Acessórios,12,80.00,10.00
+27,2024-03-20,Headset Wireless,Áudio,3,250.00,20.00
+28,2024-03-22,Webcam 1080p,Acessórios,2,300.00,15.00
+29,2024-03-25,Cadeira Ergonômica,Móveis,1,1200.00,100.00
+30,2024-03-28,Placa de Vídeo,Hardware,1,3500.00,60.00
+31,2024-04-02,Teclado Mecânico,Acessórios,2,150.00,15.00
+32,2024-04-05,SSD 1TB,Hardware,5,450.00,12.00
+33,2024-04-08,Monitor 4K,Hardware,1,2200.00,50.00
+34,2024-04-10,Mouse Gamer,Acessórios,15,80.00,10.00
+35,2024-04-12,Headset Wireless,Áudio,5,250.00,20.00
+36,2024-04-15,Webcam 1080p,Acessórios,4,300.00,15.00
+37,2024-04-18,Cadeira Ergonômica,Móveis,2,1200.00,100.00
+38,2024-04-20,Placa de Vídeo,Hardware,1,3500.00,60.00
+39,2024-04-22,Teclado Mecânico,Acessórios,3,150.00,15.00
+40,2024-04-25,SSD 1TB,Hardware,3,450.00,12.00
+41,2024-05-01,Monitor 4K,Hardware,2,2200.00,50.00
+42,2024-05-04,Mouse Gamer,Acessórios,20,80.00,10.00
+43,2024-05-07,Headset Wireless,Áudio,6,250.00,20.00
+44,2024-05-10,Webcam 1080p,Acessórios,2,300.00,15.00
+45,2024-05-12,Cadeira Ergonômica,Móveis,1,1200.00,100.00
+46,2024-05-15,Placa de Vídeo,Hardware,1,3500.00,60.00
+47,2024-05-18,Teclado Mecânico,Acessórios,5,150.00,15.00
+48,2024-05-20,SSD 1TB,Hardware,8,450.00,12.00
+49,2024-05-22,Monitor 4K,Hardware,1,2200.00,50.00
+50,2024-05-25,Mouse Gamer,Acessórios,10,80.00,10.00
+51,2024-06-01,Teclado Mecânico,Acessórios,2,150.00,15.00
+52,2024-06-03,Monitor 4K,Hardware,1,2200.00,50.00
+53,2024-06-05,Mouse Gamer,Acessórios,5,80.00,10.00
+54,2024-06-08,Cadeira Ergonômica,Móveis,1,1200.00,100.00
+55,2024-06-10,Headset Wireless,Áudio,3,250.00,20.00
+56,2024-06-12,Placa de Vídeo,Hardware,1,3500.00,60.00
+57,2024-06-15,Teclado Mecânico,Acessórios,1,150.00,15.00
+58,2024-06-18,SSD 1TB,Hardware,4,450.00,12.00
+59,2024-06-20,Monitor 4K,Hardware,2,2200.00,50.00
+60,2024-06-25,Mouse Gamer,Acessórios,10,80.00,10.00
+61,2024-07-01,Cadeira Ergonômica,Móveis,2,1200.00,100.00
+62,2024-07-04,Headset Wireless,Áudio,4,250.00,20.00
+63,2024-07-08,Webcam 1080p,Acessórios,3,300.00,15.00
+64,2024-07-10,Placa de Vídeo,Hardware,1,3500.00,60.00
+65,2024-07-12,Teclado Mecânico,Acessórios,3,150.00,15.00
+66,2024-07-15,SSD 1TB,Hardware,2,450.00,12.00
+67,2024-07-18,Monitor 4K,Hardware,1,2200.00,50.00
+68,2024-07-20,Mouse Gamer,Acessórios,8,80.00,10.00
+69,2024-07-22,Headset Wireless,Áudio,2,250.00,20.00
+70,2024-07-25,Webcam 1080p,Acessórios,5,300.00,15.00
+71,2024-08-01,Cadeira Ergonômica,Móveis,1,1200.00,100.00
+72,2024-08-03,Placa de Vídeo,Hardware,2,3500.00,60.00
+73,2024-08-05,Teclado Mecânico,Acessórios,4,150.00,15.00
+74,2024-08-08,SSD 1TB,Hardware,6,450.00,12.00
+75,2024-08-10,Monitor 4K,Hardware,1,2200.00,50.00
+76,2024-08-12,Mouse Gamer,Acessórios,12,80.00,10.00
+77,2024-08-15,Headset Wireless,Áudio,3,250.00,20.00
+78,2024-08-18,Webcam 1080p,Acessórios,2,300.00,15.00
+79,2024-08-20,Cadeira Ergonômica,Móveis,1,1200.00,100.00
+80,2024-08-25,Placa de Vídeo,Hardware,1,3500.00,60.00
+81,2024-09-01,Teclado Mecânico,Acessórios,2,150.00,15.00
+82,2024-09-04,SSD 1TB,Hardware,5,450.00,12.00
+83,2024-09-07,Monitor 4K,Hardware,1,2200.00,50.00
+84,2024-09-10,Mouse Gamer,Acessórios,15,80.00,10.00
+85,2024-09-12,Headset Wireless,Áudio,5,250.00,20.00
+86,2024-09-15,Webcam 1080p,Acessórios,4,300.00,15.00
+87,2024-09-18,Cadeira Ergonômica,Móveis,2,1200.00,100.00
+88,2024-09-20,Placa de Vídeo,Hardware,1,3500.00,60.00
+89,2024-09-22,Teclado Mecânico,Acessórios,3,150.00,15.00
+90,2024-09-25,SSD 1TB,Hardware,3,450.00,12.00
+91,2024-10-01,Monitor 4K,Hardware,2,2200.00,50.00
+92,2024-10-04,Mouse Gamer,Acessórios,20,80.00,10.00
+93,2024-10-07,Headset Wireless,Áudio,6,250.00,20.00
+94,2024-10-10,Webcam 1080p,Acessórios,2,300.00,15.00
+95,2024-10-12,Cadeira Ergonômica,Móveis,1,1200.00,100.00
+96,2024-10-15,Placa de Vídeo,Hardware,1,3500.00,60.00
+97,2024-10-18,Teclado Mecânico,Acessórios,5,150.00,15.00
+98,2024-10-20,SSD 1TB,Hardware,8,450.00,12.00
+99,2024-10-22,Monitor 4K,Hardware,1,2200.00,50.00
+100,2024-10-25,Mouse Gamer,Acessórios,10,80.00,10.00
