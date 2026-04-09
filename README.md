@@ -8,17 +8,17 @@ Desenvolver um sistema preditivo que utiliza algoritmos de Regressão Linear par
 
 2.Tecnologias e Ferramentas
 
-    Ambiente de Desenvolvimento: Linux Mint Cinnamon.
+Ambiente de Desenvolvimento: Linux Mint Cinnamon.
 
-    Linguagem: Python 3.12.
+Linguagem: Python 3.12.
 
-    Machine Learning: Scikit-Learn (LinearRegression).
+Machine Learning: Scikit-Learn (LinearRegression).
 
-    Interface e Visualização: Streamlit para o dashboard interativo.
+Interface e Visualização: Streamlit para o dashboard interativo.
 
-    Análise de Dados: Pandas, NumPy e Matplotlib.
+Análise de Dados: Pandas, NumPy e Matplotlib.
 
-    Versionamento: Git para controle de código.
+Versionamento: Git para controle de código.
 
 3.Estrutura de Diretórios
 
@@ -34,42 +34,42 @@ Desenvolver um sistema preditivo que utiliza algoritmos de Regressão Linear par
 
 4.Funcionalidades Implementadas
 
-    Modelagem Preditiva: Treinamento de modelo de Regressão Linear em tempo real utilizando a biblioteca Scikit-Learn.
+Modelagem Preditiva: Treinamento de modelo de Regressão Linear em tempo real utilizando a biblioteca Scikit-Learn.
 
-    Projeção Dinâmica: Slider interativo que permite ao usuário definir o horizonte de previsão (ex: prever os próximos 6 meses).
+Projeção Dinâmica: Slider interativo que permite ao usuário definir o horizonte de previsão (ex: prever os próximos 6 meses).
 
-    Análise de Séries Temporais: Processamento de dados históricos com agrupamento mensal e tratamento de sazonalidade.
+Análise de Séries Temporais: Processamento de dados históricos com agrupamento mensal e tratamento de sazonalidade.
 
-    Visualização de Tendências: Gráfico comparativo entre dados reais (passado) e dados projetados (futuro).
+Visualização de Tendências: Gráfico comparativo entre dados reais (passado) e dados projetados (futuro).
 
-    Métricas de Negócio: Cálculo automático do volume total de demanda previsto para o período selecionado.
+Métricas de Negócio: Cálculo automático do volume total de demanda previsto para o período selecionado.
 
 5.Diferenciais Técnicos
 
-    Tratamento de Frequência: Implementação atualizada utilizando ME (Month End) para compatibilidade com as versões recentes do Pandas.
+Tratamento de Frequência: Implementação atualizada utilizando ME (Month End) para compatibilidade com as versões recentes do Pandas.
 
-    Performance: Uso do decorador @st.cache_data para otimização do carregamento e processamento do modelo.
+Performance: Uso do decorador @st.cache_data para otimização do carregamento e processamento do modelo.
 
-    Escalabilidade: Estrutura preparada para inclusão de novos modelos de regressão ou algoritmos de Random Forest em etapas futuras.
+Escalabilidade: Estrutura preparada para inclusão de novos modelos de regressão ou algoritmos de Random Forest em etapas futuras.
 
 6.Instruções de Instalação e Execução
-5.1 Configuração do Ambiente
+6.1 Configuração do Ambiente
 
-    Clone o repositório:
+Clone o repositório:
 
-        git clone https://github.com/diego-mansija/meu-projeto-ml-predicao.git
+    git clone https://github.com/diego-mansija/meu-projeto-ml-predicao.git
 
-    Configure o ambiente virtual e instale as dependências:
+Configure o ambiente virtual e instale as dependências:
 
-        python3 -m venv .venv
-        source .venv/bin/activate
-        pip install -r requirements.txt
+    python3 -m venv .venv
+    source .venv/bin/activate
+    pip install -r requirements.txt
 
-    5.2 Execução da Aplicação
+5.2 Execução da Aplicação
 
-    Para iniciar o sistema de predição localmente:
+Para iniciar o sistema de predição localmente:
 
-        streamlit run src/app_ml.py
+    streamlit run src/app_ml.py
 
 6.Demonstração e Acesso Online
 
