@@ -1,10 +1,10 @@
-Predição de Demanda com Machine Learning (Nível 3)
+Predição de Demanda com Machine Learning
 
-Este projeto representa a evolução de uma análise de dados descritiva para uma solução de Inteligência Preditiva. A aplicação utiliza modelos estatísticos para projetar volumes de vendas futuros com base em dados históricos, auxiliando na tomada de decisão estratégica e gestão de inventário.
+Este projeto aplica uma solução de Inteligência Preditiva. A aplicação utiliza modelos estatísticos para projetar volumes de vendas futuros com base em dados históricos, auxiliando na tomada de decisão estratégica e gestão de inventário.
 
 1.Objetivo
 
-Desenvolver um sistema preditivo que utiliza algoritmos de Regressão Linear para estimar a demanda de produtos nos meses subsequentes. O foco é transformar registros históricos em insights acionáveis, demonstrando a aplicação prática de Machine Learning em cenários de negócio.
+Desenvolver um sistema preditivo que utiliza algoritmos de Regressão Linear para estimar a demanda de produtos nos meses subsequentes sem considerar oscilações sazonais específicas, mas útil para planejamento de estoque inicial. O foco é transformar registros históricos em insights acionáveis, demonstrando a aplicação prática de Machine Learning em cenários de negócio.
 
 2.Tecnologias e Ferramentas
 
@@ -22,7 +22,7 @@ Desenvolver um sistema preditivo que utiliza algoritmos de Regressão Linear par
 
 3.Estrutura de Diretórios
 
-    meu-projeto-ml-predicao/
+    machine-learning-lv1/
     |
     ├── data/
     │   └── vendas.csv          # Histórico de transações
@@ -57,7 +57,7 @@ Desenvolver um sistema preditivo que utiliza algoritmos de Regressão Linear par
 
     Clone o repositório:
 
-        git clone https://github.com/diego-mansija/meu-projeto-ml-predicao.git
+        git clone https://github.com/diego-mansija/machine-learning-lv1.git
 
     Configure o ambiente virtual e instale as dependências:
 
@@ -69,10 +69,10 @@ Desenvolver um sistema preditivo que utiliza algoritmos de Regressão Linear par
 
     Para iniciar o sistema de predição localmente:
 
-        streamlit run src/app_ml.py
+        streamlit run src/app.py
 
 6.Demonstração e Acesso Online
 
 A aplicação está hospedada no Streamlit Community Cloud e pode ser acessada através do link abaixo:
 
-[Acesse o Dashboard Preditivo Online]()
+[Acesse o Dashboard Preditivo Online](https://machine-learning-lv1.streamlit.app/)
