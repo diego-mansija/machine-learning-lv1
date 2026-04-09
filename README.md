@@ -57,7 +57,7 @@ Escalabilidade: Estrutura preparada para inclusão de novos modelos de regressã
 
 Clone o repositório:
 
-        git clone https://github.com/diego-mansija/machine-learning-lv1.git
+    git clone https://github.com/diego-mansija/machine-learning-lv1.git
 
 Configure o ambiente virtual e instale as dependências:
 
@@ -69,7 +69,7 @@ Configure o ambiente virtual e instale as dependências:
 
 Para iniciar o sistema de predição localmente:
 
-        streamlit run src/app.py
+    streamlit run src/app.py
 
 6.Demonstração e Acesso Online
 
